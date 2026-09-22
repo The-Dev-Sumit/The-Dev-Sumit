@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [my_portfolio](https://dev-sumit.xyz)
+- 👨‍💻 All of my projects are available at [my_portfolio](https://www.the-great-sumit.in/)
 
 - 📫 How to reach me **sumit73564@gmail.com**
 
