@@ -4,11 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-dev-sumit&label=Profile%20views&color=0e75b6&style=flat" alt="the-dev-sumit" /> </p>
 
 
-- 🌱 I’m currently learning **Nextjs**
+- I build responsive websites and full-stack web applications with React, Next.js, Node.js and TypeScript.
 
-- 👨‍💻 All of my projects are available at [my_portfolio](https://www.the-great-sumit.in/)
+- 👨‍💻 Portfolio: [my_portfolio](https://www.the-great-sumit.in/)
 
-- 📫 How to reach me **sumit73564@gmail.com**
+- 💼 Available for freelance projects: custom business websites, frontend builds, small full-stack applications and desktop application.
+
+- 📫 Reach me: **sumit73564@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
