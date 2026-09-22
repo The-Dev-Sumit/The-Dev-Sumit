@@ -12,6 +12,10 @@
 
 - 📫 Reach me: **sumit73564@gmail.com**
 
+- I build fast, mobile-friendly, custom-coded business websites and web applications.
+
+What I can deliver: responsive pages, contact/quote forms, SEO basics, deployment, custom APIs, dashboards, authentication and database-backed features.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
